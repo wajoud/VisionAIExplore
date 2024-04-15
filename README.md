@@ -17,7 +17,7 @@ Our mission is to foster an open-source community that collaborates on innovativ
 Clone this repository and set up your local development environment:
 
 ```bash
-git clone https://github.com/yourusername/VisionAIExplore.git
+git clone https://github.com/wajoud/VisionAIExplore.git
 cd VisionAIExplore
 pip install -r requirements.txt
 ```
