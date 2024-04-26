@@ -29,4 +29,4 @@ python3 Face_Recognition.py
 
 ## Demo
 
-![Face Recognition Demo](https://drive.google.com/uc?export=view&id=1uqjdywoCxvqIDJk-tKfd34Z_eRC8Gazp)
+![Face Recognition Demo](wajoud_noorani.png)
